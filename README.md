@@ -1,3 +1,7 @@
+Portfolio created using Create React App
+Go to Screenshot folder for sample demo
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
